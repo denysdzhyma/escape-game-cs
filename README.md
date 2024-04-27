@@ -2,8 +2,10 @@
 
 This is Escape Mini Game in console.
 
-Compatibility: MacOS only
+Compatibility:
+- MacOS 11+ (Big Sur) arm64 (Apple Silicon)
+- Windows 8.1/10/11 64-bit
 
 
 
-This game compatibility will be added for Windows and Linux (Ubuntu/Debian)
+
