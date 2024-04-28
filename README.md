@@ -2,9 +2,11 @@
 
 This is Escape Mini Game in console.
 
+
 Compatibility:
+
 - MacOS 11+ (Big Sur) arm64 (Apple Silicon)
-- Windows 8.1/10/11 64-bit
+- Windows 8.1/10/11 64-bit (Click Maximize and scroll up until 'Escape Mini Game shows after opening exe-file)
 
 
 
