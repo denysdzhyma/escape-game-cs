@@ -1,6 +1,6 @@
 # escape-game-cs
 
-This is Escape Mini Game in console.
+This is Escape Mini Game in game-console mini.
 
 
 Compatibility:
