@@ -8,5 +8,4 @@ Compatibility:
 - Windows 8.1/10/11 64-bit (Click Maximize and scroll up until 'Escape Mini Game' appears after opening the .exe file)
 
 
-The .NET Runtime is required. 
-Please download and install it from the following link: https://dotnet.microsoft.com/en-us/download
+The .NET Runtime is required. Download and install it from the following link: https://dotnet.microsoft.com/en-us/download
